@@ -1,0 +1,6 @@
+api_key = "YOUR API KEY"
+secret_key = "YOU SECRET KEY"
+username = "YOUR ANGEL ONE CLIENT ID"
+password = "YOU ANGEL ONE PIN"
+qr_key = "YOUR TOTP OR QR KEY"
+mac_address = "YOUR MAC ADDRESS" 
